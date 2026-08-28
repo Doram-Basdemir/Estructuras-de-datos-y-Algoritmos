@@ -1,0 +1,19 @@
+From carlos@anahuac.mx Mon Mar 3 08:20:10 2025
+From: carlos@anahuac.mx
+Subject: Tarea entregada
+X-DSPAM-Confidence: 0.8475
+
+From ana@anahuac.mx Tue Mar 4 10:05:44 2025
+From: ana@anahuac.mx
+Subject: Consulta sobre el proyecto
+X-DSPAM-Confidence: 0.6178
+
+From luis@anahuac.mx Wed Mar 5 09:12:30 2025
+From: luis@anahuac.mx
+Subject: Entrega del laboratorio
+X-DSPAM-Confidence: 0.7912
+
+From ana@anahuac.mx Thu Mar 6 11:40:02 2025
+From: ana@anahuac.mx
+Subject: Segunda consulta
+X-DSPAM-Confidence: 0.5533
